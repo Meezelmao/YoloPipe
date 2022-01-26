@@ -1,0 +1,5 @@
+train: C:/Users/vasilchenkodv/PycharmProjects/CVphoto/data/images/test
+val: C:/Users/vasilchenkodv/PycharmProjects/CVphoto/data/images/valid
+
+nc: 1
+names: ['Defect']
