@@ -1,8 +1,8 @@
 # YoloPipe
- Detect defects on pipe surface
+ Detect defects on pipe surface. This is a research work within the university.
 This script is designed to detect defects on the surface of a stainless tube and is used in production for online troubleshooting. 
 For simultaneous viewing of the entire surface of the tube (360 degrees), 
-3 Baumer machine vision cameras are used.
+3 Baumer machine vision cameras are used. 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/90841085/151109489-99f96cbd-95f8-4c3b-a056-d5195a3965d2.jpg" width="400" height="300"/>
 <p>
